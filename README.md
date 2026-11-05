@@ -46,6 +46,16 @@ OnlineQuizApplication/
 - Loops and Conditional Statements
 - Scanner for User Input
 
+## Screenshots
+
+### Quiz
+
+![Quiz](Screenshots/QuizHome.png)
+
+### Quiz Result
+
+![Quiz Result](Screenshots/QuizResult.png)
+
 ## Author
 Chathurani Thuduwage
 
